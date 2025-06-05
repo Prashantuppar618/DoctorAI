@@ -17,29 +17,6 @@ DoctorAI is an intelligent healthcare assistant that predicts diseases based on 
 - 🌐 Frontend built with React, backend with Flask
 - 🔗 Connected to a trained ML model using `.pkl` files
 
-## 📂 Project Structure
-
-```
-
-DoctorAI/
-│
-├── backend/
-│   ├── app.py             # Flask server
-│   ├── model.pkl          # Trained ML model
-│   ├── vectorizer.pkl     # Vectorizer for input processing
-│   └── requirements.txt   # Backend dependencies
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/    # React components
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json       # Frontend dependencies
-│
-└── README.md              # Project description
-
-````
 
 ## ⚙️ How to Run Locally
 
